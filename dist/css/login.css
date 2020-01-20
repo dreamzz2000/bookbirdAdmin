@@ -4,3 +4,9 @@
     text-align: center;
     margin: 0 30%;
 }
+
+.loginBtn :hover
+{
+    background-color: #ff6d77;
+    border-color: #ff6d77;
+}
